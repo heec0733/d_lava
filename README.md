@@ -5,11 +5,11 @@ lava/plasma effect directly in your terminal using 24-bit ANSI colors, with
 adaptive downsampling to keep FPS stable even on huge terminal windows or
 weaker CPUs.
 
-![demo](d_video.mp4)
+![logo](assets/logo.png)
 
 ## Demo
 
-[![Demo](demo.gif)](d_video.mp4)
+![demo](assets/video.mp4)
 
 ```bash
 gcc -O3 -funroll-loops -o lava lava.c -lm
