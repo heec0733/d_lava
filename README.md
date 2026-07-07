@@ -9,16 +9,7 @@ weaker CPUs.
 
 ## Demo
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/9221b232-a81b-4cc4-ad4a-a994d05ead77" controls width="700"></video>
-</p>
-
-```bash
-gcc -O3 -funroll-loops -o lava lava.c -lm
-./lava
-```
-
-Press `Ctrl+C` to stop — it restores your cursor and terminal state on exit.
+https://github.com/user-attachments/assets/9221b232-a81b-4cc4-ad4a-a994d05ead77
 
 ## How It Works
 
