@@ -9,7 +9,7 @@ weaker CPUs.
 
 ## Demo
 
-![demo](assets/video.mp4)
+https://github.com/user-attachments/assets/9221b232-a81b-4cc4-ad4a-a994d05ead77
 
 ```bash
 gcc -O3 -funroll-loops -o lava lava.c -lm
